@@ -1,0 +1,6 @@
+{
+  "name": "Movie-recommender-system",
+  "tagline": "EECS 545 Course Project - Group 29",
+  "body": "## Movie-Recommender-System\r\n###### EECS 545 Course Project - Group 29\r\n###### For cost function minimization, we are using fmincg (a function developed by Carl Rasmussen, and made availabe to public). It works similar as fminunc in MATLAB.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
